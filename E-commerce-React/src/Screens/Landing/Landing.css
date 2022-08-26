@@ -1,0 +1,100 @@
+.carousel {
+    margin-top: 17px;
+    position: relative;
+    align-items: center;
+}
+
+.box2 img {
+    vertical-align: middle;
+    border-style: none
+}
+
+.imgLand {
+    cursor: pointer;
+}
+
+.imgLand :hover {
+    filter: brightness(30%);
+}
+
+.col1 {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-top: 15px;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+
+.info {
+    font-family: Graphik Web, sans-serif;
+    color: black;
+    font-size: 14px;
+}
+
+.titleInfo {
+    font-family: Graphik Web, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.titleInfo:hover {
+    filter: brightness(30%);
+}
+
+.footer {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity))
+}
+
+.titleFooter {
+    color: beige;
+}
+
+.links {
+    cursor: pointer;
+}
+
+.links:hover {
+    filter: brightness(200%);
+}
+
+.tituloAbout {
+    font-family: Graphik Web, sans-serif;
+    color: black;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.textoAbout {
+    font-family: Graphik Web, sans-serif;
+    color: rgb(37, 37, 37);
+    font-size: 24px;
+}
+
+.logoAbout {
+    max-width: 85%;
+    max-height: 85%;
+    background-color: rgba(219, 218, 218, 0.253);
+    border-radius: 15px;
+}
+
+.tituloFaqs {
+    font-family: Graphik Web, sans-serif;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.textoFaqs {
+    font-family: Graphik Web, sans-serif;
+    color: rgb(37, 37, 37);
+    font-size: 20px;
+}
+
+.titleO:hover {
+    filter: brightness(30%);
+    cursor: pointer;
+}

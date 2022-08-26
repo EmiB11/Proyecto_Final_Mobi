@@ -1,0 +1,10 @@
+.sidebar__admin{
+    height: 100%;
+}
+.sidebar__admin ul{
+    margin: 0
+}
+
+.sidebar__admin a:hover{
+    background-color: #212529;
+}

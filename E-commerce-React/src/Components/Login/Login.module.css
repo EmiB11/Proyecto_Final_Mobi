@@ -1,0 +1,52 @@
+.tituloLOg{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.rr  button{
+text-align: center;
+
+}
+
+
+
+.LogRegis{
+    margin: 15px;
+    border-color: black ;
+    border-style: solid ;
+    border-width: 1px ;
+    border-radius: 5px ;
+}
+
+.LogRegis:hover{
+    border-color: #33fd00 ;
+    border-style: solid ;
+    border-width: 1px ;
+    border-radius: 5px ;
+}
+
+ .containerLoginPass{
+   position: relative;
+   margin-top: 20px;
+
+ }
+  .containerLoginPass > button {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+   
+  }
+
+  .buttonLoginPass {
+    position:absolute;
+    background-color: black;
+    color: white;
+    top: 25px;
+    right: 0px;
+    height:36px;
+  }
+  .boton{
+    text-align: center;
+  }
+ 

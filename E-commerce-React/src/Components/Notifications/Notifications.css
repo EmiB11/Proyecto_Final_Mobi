@@ -1,0 +1,74 @@
+.navbarNotifications {
+    height: 50px;    
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: black;
+    position: relative;
+    border-bottom: solid 1px black;
+    padding-right: 5rem;
+  }
+  
+  .logoNotifications {
+    font-weight: bold;
+    font-size: 20px;
+    color: white
+  }
+  
+  .iconsNotifications {
+    display: flex;
+    align-items: center;
+  }
+  
+  .iconNotifications {
+    margin-left: 15px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .iconImgNotifications {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .counterNotifications {
+    width: 5px;
+    height: 5px;
+    background-color: red;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+  }
+  
+  .notificationsNotifications {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: white;
+    color: black;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    z-index: 10;
+  }
+  
+  .notificationNotifications {
+    padding: 10px;
+    font-size: 14px;
+    border-bottom: 1px solid gray;
+  }
+  
+  .nButtonNotifications {
+    justify-content: center;
+    width: 80%;
+    padding: 5px;
+    margin-top: 10px;
+  }

@@ -1,0 +1,170 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin-top: 2rem;
+    width: 25rem;
+    height: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    background: white;
+	
+	padding: 20px 20px 20px 20px;
+	box-shadow: 0 13px 26px rgba(#000, .2), 0 3px 6px rgba(#000, .2);
+    
+}
+.containerTitle{
+    margin-top: 1rem;
+}
+.profile{
+    padding-top: 0rem;
+    position: relative;
+    align-self: center;
+  
+}
+/* .buttons{
+    height: 2rem;
+    display: flex;
+    place-content: space-between;
+   
+} */
+/* .btnLink{
+    text-decoration: underline;
+ color: black;
+ font-weight: bold;
+ background: none;
+ border: none;
+ font-size: small;
+}
+.btnLink:hover{
+    color: #1661d1; 
+   
+} */
+/* .btnLink > a {
+text-decoration: underline;
+ color: black;
+ font-weight: bold;
+ font-size: small;
+     
+} */
+/* .title{
+    font-weight: bold;
+    background: -webkit-linear-gradient(#c8935b, rgb(173, 159, 159));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+  /*   color:#c8935b; */
+    /* width: 7.9rem;
+    margin-bottom: 1rem;
+} */
+/* .titleCart{
+      font-weight: bold;
+    background: -webkit-linear-gradient(#c8935b, rgb(173, 159, 159));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+.profileImg{
+    width: 12rem;
+    border-radius: 9999px;
+    box-shadow: 0 13px 26px rgba(#000, .2), 0 3px 6px rgba(#000, .2);
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.iconCam{
+    border: none;
+}
+.profilePicDiv{ 
+
+    padding: 0.25rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 13px 26px rgba(#000, .2), 0 3px 6px rgba(#000, .2);
+    
+
+}
+.profilePicDiv > img {
+    align-self: center;
+    box-shadow:  13px 26px rgba(#000, .2), 0 3px 6px rgba(#000, .2);
+}
+.modalClose{
+    top: 1rem;
+    right: 1rem;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    margin-top: 0.2rem;
+    margin-right: 0.2rem;
+    font-weight: bold;
+    background: none;
+}
+.modalClose:hover{
+    color: #ff001891;
+    transition: 6ms
+}
+.cartProfile > div{
+    display: flex;
+    flex-direction: row;
+   
+}
+.profileContainer{
+    display: flex;
+    flex-direction: column-reverse;
+    
+    
+}
+/* .Favoritos{
+    display: flex;
+    justify-content: space-evenly;
+} */
+
+.profileP{
+    display: flex;
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+.profileP, p{
+    text-align: center;
+}
+.linkHistorial{
+    display: flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+     margin-bottom: 1px;
+    /* margin-top: 5px;  */
+    color:#c8935b;
+}
+.cartProducts{
+    display: flex;
+    position: relative;
+    
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    gap:5px
+    
+}
+.address{
+    display: flex;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+    height: 5rem;
+   
+   
+}
