@@ -2,5 +2,5 @@
 
 Es un `e-commerce` de muebles desarrollado por un equipo de 8 personas usando `SCRUM-Agile` y JS stack para un proyecto real. • En este proyecto implementamos chat online para que el usuario pueda comunicarse con el proveedor ,login con google , newsletters para que el usuario reciba información vía email , carrito de compras, productos favoritos ,puntaje y comentarios a productos comprados , historial de compras , perfil de usuarios , registro y login ,recupero de contrseña, pasarela de pagos , que pueda ingresar una imagen y recomendarle productos, un dashboard de administrador para que pueda administrar las ventas , eliminar , crear y editar productos , agregar más administradores , bloquear usuarios , notificaciones que le permite al administrador saber si le envían un mensaje , se realiza una venta o comentan un producto y un chat para comunicarse con el usuario. Tecnologías:  `React, Redux, HTML, CSS, Bootstrap, Node JS, Express, PostgreSQL, Sequelize, JWT, Firebase,Socket.io , Styled Components`.
 
-# Mi principal contribución al proyecto: 
+## Mi principal contribución al proyecto: 
 carrito de compras, login con google utilizando Firebase, registro del usuario ,formulario de envío ,orden de compra, recupero de contraseña , deploy del proyecto del lado del backend utilizando Render.
